@@ -62,7 +62,7 @@ This project showcases a complete, end-to-end deep learning workflow:
     ```
     Install the required packages:
     ```bash
-s    pip install -r requirements.txt
+    pip install -r requirements.txt
     ```
 
 3.  **Download the Data:**
